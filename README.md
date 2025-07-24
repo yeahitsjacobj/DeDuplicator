@@ -23,8 +23,11 @@ A Python GUI application to find and manage duplicate video files based on video
 git clone [https://github.com/yourusername/TheDeDuplicator.git](https://github.com/yeahitsjacobj/DeDuplicator.git)
 cd TheDeDuplicator
 
+```bash
 2. Install the required Python packages:
 pip install -r requirements.txt
+
+
 
 ## Usage
 Run the main application script:
